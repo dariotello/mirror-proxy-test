@@ -1,0 +1,13 @@
+{
+  // ─────────────────────────────────────────────────────────────────────
+  //  MIRROR «El Origen» — PROXY · configuración del Worker
+  //  El botón "Deploy to Cloudflare" lee este archivo para crear tu Worker.
+  //  Podés cambiar el nombre en la página de setup del botón.
+  // ─────────────────────────────────────────────────────────────────────
+  "name": "mirror-proxy-test",
+  "main": "mirror-proxy.js",
+  "compatibility_date": "2026-06-21",
+  "observability": {
+    "enabled": true
+  }
+}

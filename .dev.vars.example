@@ -1,0 +1,6 @@
+# Claves de tu PROXY de MIRROR.
+# El boton "Deploy to Cloudflare" lee este archivo y te pide estos valores
+# en el setup; Cloudflare los guarda ENCRIPTADOS, nunca se suben al repo.
+# Con GROQ ya alcanza (chat + transcripcion). El resto es opcional (ver README).
+
+GROQ_KEY=tu_clave_de_groq   # gratis en https://console.groq.com/keys

@@ -1,0 +1,13 @@
+{
+  "name": "mirror-proxy-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Proxy universal de MIRROR «El Origen»: la caja fuerte que guarda tus claves de IA del lado del servidor.",
+  "cloudflare": {
+    "bindings": {
+      "GROQ_KEY": {
+        "description": "Tu clave **gratuita** de Groq. Es lo único imprescindible: hace hablar a tu MIRROR y transcribe audio (Whisper). Generala en [console.groq.com/keys](https://console.groq.com/keys) — es gratis y toma un minuto. Los demás motores (Cerebras, OpenAI, etc.) y la búsqueda web (Tavily) son opcionales y se agregan después desde el panel."
+      }
+    }
+  }
+}

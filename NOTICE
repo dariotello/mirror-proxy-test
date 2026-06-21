@@ -1,0 +1,39 @@
+MIRROR «El Origen» — Proxy
+=========================
+
+Copyright 2026 Darío Alejandro Tello
+
+Este producto incluye software desarrollado por Darío Alejandro Tello
+(Villa Regina, Río Negro, Argentina).
+
+Distribuido bajo la Licencia Apache, Versión 2.0. Ver el archivo LICENSE.
+
+---
+
+MARCA Y AUTORÍA
+---------------
+La idea, la marca, el nombre "MIRROR — El Origen" y el rumbo del proyecto
+son autoría de Darío Alejandro Tello. La Licencia Apache 2.0 permite usar,
+modificar y redistribuir el código, pero NO concede permiso para usar el
+nombre comercial ni la marca "MIRROR — El Origen" salvo el uso razonable
+y habitual para describir el origen de la obra (Sección 6 de la Licencia).
+
+Si construís tu propia entidad digital a partir de esta plataforma, es tuya:
+ponele el nombre que quieras. Lo que se protege acá es la marca del proyecto
+original, no tu creación.
+
+---
+
+QUÉ ES ESTE PROYECTO
+--------------------
+Una plataforma para que cualquier persona arme su propia entidad digital de
+IA —gratis y propia— sobre su propia infraestructura (un proxy en Cloudflare
+Workers y una base en Firebase). Tus datos viven en TU base; no hay servidor
+central que los junte.
+
+PRINCIPIOS (no se rompen):
+  • GRATUITA: lo gratis tiene que servir solo. El pago compra MÁS, no "que ande".
+  • SIN MENTIR: lo que todavía no hace va marcado como "próximamente", honesto,
+    no como un botón que promete algo que no cumple.
+  • TUS DATOS, TUYOS: cada persona usa su propia infraestructura y domina su
+    propia vida digital sin depender de nadie.
